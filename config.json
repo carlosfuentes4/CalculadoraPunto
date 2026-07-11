@@ -1,0 +1,61 @@
+{
+    "admin_password": "esco25",
+    "products": {
+        "lona": {
+            "price": 0.2,
+            "min_w": 24.0,
+            "min_h": 24.0,
+            "inc": 12.0,
+            "min_qty_desc": 12.0,
+            "desc_porcentaje": 5.0
+        },
+        "vinil": {
+            "price": 0.25,
+            "min_w": 0,
+            "min_h": 0,
+            "inc": 0,
+            "min_qty_desc": 0,
+            "desc_porcentaje": 0
+        },
+        "estampado": {
+            "price": 1.25,
+            "min_w": 0,
+            "min_h": 0,
+            "inc": 0,
+            "min_qty_desc": 0,
+            "desc_porcentaje": 0
+        },
+        "fotografia": {
+            "price": 0.54,
+            "min_w": 7,
+            "min_h": 10,
+            "inc": 12,
+            "min_qty_desc": 0,
+            "desc_porcentaje": 0
+        },
+        "sticker en pvc": {
+            "price": 0.6,
+            "min_w": 0,
+            "min_h": 0,
+            "inc": 0,
+            "min_qty_desc": 0,
+            "desc_porcentaje": 0
+        },
+        "uv dtf": {
+            "price": 1.6,
+            "min_w": 0,
+            "min_h": 0,
+            "inc": 0,
+            "min_qty_desc": 0,
+            "desc_porcentaje": 0
+        },
+        "dtf textil": {
+            "price": 0.95,
+            "min_w": 0,
+            "min_h": 0,
+            "inc": 0,
+            "min_qty_desc": 0,
+            "desc_porcentaje": 0
+        }
+    }
+}
